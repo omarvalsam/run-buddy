@@ -297,6 +297,15 @@ section {
      margin-bottom: 15px;
      margin-top: 5px;
  }
+ .contact-form button{
+     width: 100%;
+     border: none;
+     background: #fce138;
+     color: #024e76;
+     text-align: center;
+     padding: 15px 0;
+     font-size: 16pxs;
+ }
  .flex-row {
      display: flex;
  }
